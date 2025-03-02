@@ -1,0 +1,71 @@
+Flight Booking System
+1. Display Available Flights
+2. Book a Flight
+3. Cancel a Booking
+4. Display Booked Flights
+5. Exit
+Enter your choice: 1
+Available Flights:
+--------------------------
+Flight Number: FL001
+Departure City: New York
+Arrival City: Los Angeles
+Departure Time: 2025-03-01 08:00
+Arrival Time: 2025-03-01 11:30
+Available Seats: 10
+--------------------------
+Flight Number: FL002
+Departure City: Los Angeles
+Arrival City: Chicago
+Departure Time: 2025-03-01 09:00
+Arrival Time: 2025-03-01 12:30
+Available Seats: 8
+--------------------------
+Flight Number: FL003
+Departure City: Chicago
+Arrival City: Miami
+Departure Time: 2025-03-01 07:00
+Arrival Time: 2025-03-01 10:30
+Available Seats: 5
+--------------------------
+
+Flight Booking System
+1. Display Available Flights
+2. Book a Flight
+3. Cancel a Booking
+4. Display Booked Flights
+5. Exit
+Enter your choice: 2
+Enter Customer Name: John
+Enter Customer Contact Info: 123456789
+Enter Flight Number to Book: FL001
+Flight booked successfully!
+
+Flight Booking System
+1. Display Available Flights
+2. Book a Flight
+3. Cancel a Booking
+4. Display Booked Flights
+5. Exit
+Enter your choice: 4
+Booked Flights:
+--------------------------
+Flight Number: FL001
+Departure City: New York
+Arrival City: Los Angeles
+Departure Time: 2025-03-01 08:00
+Arrival Time: 2025-03-01 11:30
+Available Seats: 9
+--------------------------
+Customer Name: John
+Contact Info: 123456789
+--------------------------
+
+Flight Booking System
+1. Display Available Flights
+2. Book a Flight
+3. Cancel a Booking
+4. Display Booked Flights
+5. Exit
+Enter your choice: 5
+Exiting the system. Goodbye!
